@@ -1,4 +1,4 @@
-# My Portfolio
+# Shaikh Portfolio
 
 Welcome to my portfolio! This is where I showcase my projects, skills, and experience. Built using Next.js and Tailwind CSS, this portfolio is designed to be fast, responsive, and visually appealing.
 
